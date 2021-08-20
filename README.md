@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Iasir-Arafat-riaz
-- 👀 I’m interested in Front-End Development
+- 👀 I’m Front-End Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
