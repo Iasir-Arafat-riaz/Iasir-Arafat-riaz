@@ -1,11 +1,5 @@
+
 ![I am a Full-Stack Web Developer(MERN)](https://i.ibb.co/JzP6dqc/Whats-App-Image-2021-11-28-at-2-48-03-PM-1.png)
-----------------------------------------
-----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
 
 ### Hi there 👋, Hello, I am Iasir Arafat Riaz
 #### I am a Full-Stack Web Developer(MERN)
