@@ -56,9 +56,9 @@ I am very passionate developer engineer. I am a specially frontend developer but
 <p align="left"> <a href="https://twitter.com/@arafat_riaz_cse" target="blank"><img src="https://img.shields.io/twitter/follow/@arafat_riaz_cse?logo=twitter&style=for-the-badge" alt="@arafat_riaz_cse" /></a> </p>
 
 
-    \   ^__^
+      \   ^__^
        \  (oo)\_______
-          (__)\ 0   0 )\  *
+          (__)\(       )\  /
               ||--0-w | \/
               ||     ||
 
